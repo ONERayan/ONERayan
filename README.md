@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayan, I'm a student in first year at <strong>EPITECH - PARIS</strong></h1>
-<h3 align="left">I'm looking for an internship from <strong>July to December</strong>.</h3>
-<h3 align="left"> You can check out some of my code to get an idea of my skills!</h3>
+<h3 align="left">I'm looking for an internship from <strong>July to December</strong>.
+You can check out some of my code to get an idea of my skills!</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onerayan&show_icons=true&locale=en" alt="onerayan" />
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a></p>
 
