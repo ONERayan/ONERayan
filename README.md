@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayan, I'm a student in first year at </h1>
-<h1 align="center"> <strong>EPITECH - PARIS</strong> </h1>
+<h2 align="center"> <strong>EPITECH - PARIS</strong> </h2>
 <h3 align="left">I'm looking for an internship from <strong>July to December</strong>.<br>
 You can check out some of my code to get an idea of my skills!</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onerayan&show_icons=true&locale=en" alt="onerayan" />
